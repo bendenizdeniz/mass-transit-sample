@@ -1,0 +1,11 @@
+/Users/admin/RiderProjects/MassTransit.Publisher/Contracts/bin/Debug/net7.0/Contracts.deps.json
+/Users/admin/RiderProjects/MassTransit.Publisher/Contracts/bin/Debug/net7.0/Contracts.dll
+/Users/admin/RiderProjects/MassTransit.Publisher/Contracts/bin/Debug/net7.0/Contracts.pdb
+/Users/admin/RiderProjects/MassTransit.Publisher/Contracts/obj/Debug/net7.0/Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/RiderProjects/MassTransit.Publisher/Contracts/obj/Debug/net7.0/Contracts.AssemblyInfoInputs.cache
+/Users/admin/RiderProjects/MassTransit.Publisher/Contracts/obj/Debug/net7.0/Contracts.AssemblyInfo.cs
+/Users/admin/RiderProjects/MassTransit.Publisher/Contracts/obj/Debug/net7.0/Contracts.csproj.CoreCompileInputs.cache
+/Users/admin/RiderProjects/MassTransit.Publisher/Contracts/obj/Debug/net7.0/Contracts.dll
+/Users/admin/RiderProjects/MassTransit.Publisher/Contracts/obj/Debug/net7.0/refint/Contracts.dll
+/Users/admin/RiderProjects/MassTransit.Publisher/Contracts/obj/Debug/net7.0/Contracts.pdb
+/Users/admin/RiderProjects/MassTransit.Publisher/Contracts/obj/Debug/net7.0/ref/Contracts.dll

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit.Publisher", "MassTransit.Publisher\MassTransit.Publisher.csproj", "{E69C98E1-1D8F-45E3-BB8E-15BB0CE51232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit.Consumer", "MassTransit.Consumer\MassTransit.Consumer.csproj", "{E58B983F-EC08-4348-9373-4CEC32F3B50D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{4C576CEC-54F2-49FC-8EEA-71A4446B21E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E69C98E1-1D8F-45E3-BB8E-15BB0CE51232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E69C98E1-1D8F-45E3-BB8E-15BB0CE51232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E69C98E1-1D8F-45E3-BB8E-15BB0CE51232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E69C98E1-1D8F-45E3-BB8E-15BB0CE51232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E58B983F-EC08-4348-9373-4CEC32F3B50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58B983F-EC08-4348-9373-4CEC32F3B50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58B983F-EC08-4348-9373-4CEC32F3B50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E58B983F-EC08-4348-9373-4CEC32F3B50D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C576CEC-54F2-49FC-8EEA-71A4446B21E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C576CEC-54F2-49FC-8EEA-71A4446B21E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C576CEC-54F2-49FC-8EEA-71A4446B21E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C576CEC-54F2-49FC-8EEA-71A4446B21E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
