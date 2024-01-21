@@ -1,4 +1,4 @@
-# MassTransit Microservices Project
+# MassTransit Microservices Sample Project
 
 ## Overview
 
